@@ -1,0 +1,42 @@
+(footprint "Capacitor-Vishay-515D-8x11.5x3.5mm" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 5.5) (layer "F.SilkS")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp a9d99f0f-b096-4850-adb6-9c5dee82faef)
+  )
+  (fp_text value "Vishay 515D 8x11.5x3.5mm" (at 0 -5.5) (layer "F.SilkS")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp a1ffb0c9-3138-4a60-a037-fe696eaeedce)
+  )
+  (fp_line (start -2.25 -2) (end -1.25 -2)
+    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 5620d73f-91e1-4f49-9c4d-f3bb59566c0f))
+  (fp_line (start -1.75 -2.5) (end -1.75 -1.5)
+    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 8e07775b-352b-4890-af75-ad6696b826b5))
+  (fp_arc (start 0 4) (mid -4 0) (end 0 -4)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp deca6c63-88dd-47ea-af5e-59a1c19be207))
+  (fp_poly
+    (pts
+      (xy 0 -1)
+      (arc (start 1.75 -1) (mid 0.75 0) (end 1.75 1))
+      (xy 0 1)
+    )
+
+    (stroke (width 0.15) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 59a67663-c4b8-4865-a923-ead630231c2c))
+  (fp_poly
+    (pts
+      (xy 0 -1)
+      (arc (start 1.75 -1) (mid 2.75 0) (end 1.75 1))
+      (xy 0 1)
+      (arc (start 0 4) (mid 4 0) (end 0 -4))
+    )
+
+    (stroke (width 0.15) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 6bc7dca6-abdf-4b4d-bdbe-f68bf5e254ad))
+  (pad "1" thru_hole rect (at -1.75 0) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 047758f1-d131-4bc2-bcf0-b8efdd807baf))
+  (pad "2" thru_hole circle (at 1.75 0) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 85ca7faf-4f4c-4a3c-ae01-0526ade26850))
+  (model "Capacitor-Vishay-515D-8x11.5x3.5mm.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)
