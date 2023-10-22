@@ -11,6 +11,20 @@ XS-KiCad-Library
 
 KiCad Library for XS-Labs projects.
 
+### How To Use
+
+From KiCad's "Preferences" menu, choose "Manage Footprint Libraries..." and add the path to the `XS.pretty` directory contained in this repository.  
+You can do that globally or per project.
+
+### Standards
+
+This library uses IPC-7251, IPC-2222 and IPC-2221 to determine pads and holes sizes:
+
+```
+Hole Diameter: Max Lead Diameter   + ( 0.25 | 0.20 | 0.15 )
+Pad Diameter:  Hole Diameter + 0.1 + ( 0.60 | 0.50 | 0.40 )
+```
+
 License
 -------
 
