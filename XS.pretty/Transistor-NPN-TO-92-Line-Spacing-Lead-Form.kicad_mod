@@ -32,7 +32,7 @@
   (pad "1" thru_hole rect (at 2.8 0) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 262b386f-42fc-47a6-a18a-8225e28e1e00))
   (pad "2" thru_hole circle (at 0 0) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 47fd81da-a4b6-4acc-b61e-1313b7d45c46))
   (pad "3" thru_hole circle (at -2.8 0) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 5dade8bf-7a5e-49f9-b32f-be5206fc1407))
-  (model "TO-92-Line-Spacing-Lead-Form.step"
+  (model "Package-TO-92-Line-Spacing-Lead-Form.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
