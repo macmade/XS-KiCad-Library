@@ -13,7 +13,9 @@ KiCad Library for XS-Labs projects.
 
 ### How To Use
 
-From KiCad's "Preferences" menu, choose "Manage Footprint Libraries..." and add the path to the `XS.pretty` directory contained in this repository.  
+From KiCad's "Preferences" menu, choose "Configure Paths..." and add the path to this repository as `XS_KICAD_DIR`.
+
+Then from  KiCad's "Preferences" menu, choose "Manage Footprint Libraries..." and add the path to the `${XS_KICAD_DIR}/XS.pretty` as `XS`.  
 You can do that globally or per project.
 
 ### Standards
