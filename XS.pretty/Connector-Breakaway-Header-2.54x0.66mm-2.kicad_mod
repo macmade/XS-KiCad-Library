@@ -17,8 +17,8 @@
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp f3cd759a-519d-43dd-a033-c3a267667f78))
   (fp_line (start 3 1.5) (end -3 1.5)
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 2a38ebe6-6ca6-4a0a-956f-3f73ab6e8617))
-  (pad "1" thru_hole rect (at -1.27 0) (size 1.8 1.8) (drill 1.1) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp bfe1d4a9-7a37-43f0-9483-29d3721929f9))
-  (pad "2" thru_hole rect (at 1.27 0) (size 1.8 1.8) (drill 1.1) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 0fad7d6b-7068-4665-8964-43489e98ef10))
+  (pad "1" thru_hole rect (at -1.27 0) (size 1.8 1.8) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp bfe1d4a9-7a37-43f0-9483-29d3721929f9))
+  (pad "2" thru_hole rect (at 1.27 0) (size 1.8 1.8) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp 0fad7d6b-7068-4665-8964-43489e98ef10))
   (model "Connector-Breakaway-Header-2.54x0.66mm-2.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

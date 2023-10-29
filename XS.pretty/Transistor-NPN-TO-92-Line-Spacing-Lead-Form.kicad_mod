@@ -29,9 +29,9 @@
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 52033ae1-4c4f-4e20-8537-34856f24aaba))
   (fp_arc (start 2.6 1) (mid 0 2.426409) (end -2.6 1)
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 0c67e2f9-4906-48b9-8718-d53256620e2a))
-  (pad "1" thru_hole rect (at 2.8 0) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 262b386f-42fc-47a6-a18a-8225e28e1e00))
-  (pad "2" thru_hole circle (at 0 0) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 47fd81da-a4b6-4acc-b61e-1313b7d45c46))
-  (pad "3" thru_hole circle (at -2.8 0) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 5dade8bf-7a5e-49f9-b32f-be5206fc1407))
+  (pad "1" thru_hole rect (at 2.8 0) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 262b386f-42fc-47a6-a18a-8225e28e1e00))
+  (pad "2" thru_hole circle (at 0 0) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 47fd81da-a4b6-4acc-b61e-1313b7d45c46))
+  (pad "3" thru_hole circle (at -2.8 0) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 5dade8bf-7a5e-49f9-b32f-be5206fc1407))
   (model "Package-TO-92-Line-Spacing-Lead-Form.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

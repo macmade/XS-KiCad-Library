@@ -21,8 +21,8 @@
     (stroke (width 0.15) (type solid)) (fill solid) (layer "F.SilkS") (tstamp ff2c8ecb-7b82-4b6d-b271-422895eba85c))
   (fp_rect (start -1 0.5) (end 1 1)
     (stroke (width 0.15) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 544999aa-9ebf-4372-b70d-7966917648b3))
-  (pad "1" thru_hole circle (at 2.5 0) (size 1.4 1.4) (drill 0.7) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 44870dcd-4742-4917-b553-65fe08aac30f))
-  (pad "2" thru_hole circle (at -2.5 0) (size 1.4 1.4) (drill 0.7) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 753fa8f1-7470-492e-a303-f9ac4202b122))
+  (pad "1" thru_hole circle (at 2.5 0) (size 1.4 1.4) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 44870dcd-4742-4917-b553-65fe08aac30f))
+  (pad "2" thru_hole circle (at -2.5 0) (size 1.4 1.4) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 753fa8f1-7470-492e-a303-f9ac4202b122))
   (model "Capacitor-Murata-RCE-K-5mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

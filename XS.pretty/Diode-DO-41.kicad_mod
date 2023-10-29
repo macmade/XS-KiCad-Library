@@ -41,8 +41,8 @@
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 6672dabe-b021-42fb-a5c4-2e3119f9337d))
   (fp_rect (start -2.6 -1.4) (end -1 1.4)
     (stroke (width 0.15) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 6c8afb92-478a-4f04-a8ff-a8774acd2ba7))
-  (pad "1" thru_hole rect (at -5.5 0) (size 1.5 1.5) (drill 1) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp e12e891b-0a11-4faf-92d8-db7dcf463f98))
-  (pad "2" thru_hole circle (at 5.5 0) (size 1.5 1.5) (drill 1) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp c6b1d3bb-670a-4aeb-9754-065b98e01092))
+  (pad "1" thru_hole rect (at -5.5 0) (size 1.5 1.5) (drill 1) (layers "*.Cu" "*.Mask") (tstamp e12e891b-0a11-4faf-92d8-db7dcf463f98))
+  (pad "2" thru_hole circle (at 5.5 0) (size 1.5 1.5) (drill 1) (layers "*.Cu" "*.Mask") (tstamp c6b1d3bb-670a-4aeb-9754-065b98e01092))
   (model "Diode-DO-41.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

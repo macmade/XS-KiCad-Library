@@ -69,9 +69,9 @@
     (stroke (width 0.15) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 2f4bd140-07cf-4c51-8720-0f9cf39cb022))
   (fp_arc (start -6 -1) (mid -6.25 -1.25) (end -6 -1.5)
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp f8059d7f-a533-4d8b-a630-09c6df54f9a0))
-  (pad "1" thru_hole rect (at 6 0) (size 2.5 2.5) (drill 1.2) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 231f17bc-6a1b-4b20-84fd-29b6163607ef))
-  (pad "2" thru_hole circle (at 0 0) (size 2.5 2.5) (drill 1.2) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 6d224fe5-6ac8-4ce8-b438-cca81d88fee8))
-  (pad "3" thru_hole circle (at 3 4.7) (size 2.5 2.5) (drill 1.2) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 9b406e08-9481-44c5-8619-e580453c3667))
+  (pad "1" thru_hole rect (at 6 0) (size 2.5 2.5) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp 231f17bc-6a1b-4b20-84fd-29b6163607ef))
+  (pad "2" thru_hole circle (at 0 0) (size 2.5 2.5) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp 6d224fe5-6ac8-4ce8-b438-cca81d88fee8))
+  (pad "3" thru_hole circle (at 3 4.7) (size 2.5 2.5) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp 9b406e08-9481-44c5-8619-e580453c3667))
   (model "Plug-DC-Barrel-Jack-2.1mm-CUI-PJ-102AH.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

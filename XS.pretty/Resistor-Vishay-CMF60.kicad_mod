@@ -39,8 +39,8 @@
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 5a9c67d4-ea3b-4681-899e-42555954c284))
   (fp_line (start 6.5 0) (end 5 0)
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 1c84e0ec-3d29-4472-8161-8ee83592ed73))
-  (pad "1" thru_hole circle (at -8 0) (size 1.5 1.5) (drill 0.9) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 59fcc267-f4fb-4254-b8db-a8871ba4940c))
-  (pad "2" thru_hole circle (at 8 0) (size 1.5 1.5) (drill 0.9) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 3bd15166-fa56-41b1-bf6e-6fbf3b4cbd9c))
+  (pad "1" thru_hole circle (at -8 0) (size 1.5 1.5) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp 59fcc267-f4fb-4254-b8db-a8871ba4940c))
+  (pad "2" thru_hole circle (at 8 0) (size 1.5 1.5) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp 3bd15166-fa56-41b1-bf6e-6fbf3b4cbd9c))
   (model "Resistor-Vishay-CMF60.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

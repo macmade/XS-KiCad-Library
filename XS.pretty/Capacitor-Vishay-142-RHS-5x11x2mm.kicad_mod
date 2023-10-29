@@ -32,8 +32,8 @@
     )
 
     (stroke (width 0.15) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 9a19a86a-fb18-4ac7-9da6-40f93d9d5e08))
-  (pad "1" thru_hole rect (at -1 0) (size 1.3 1.3) (drill 0.7) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 047758f1-d131-4bc2-bcf0-b8efdd807baf))
-  (pad "2" thru_hole circle (at 1 0) (size 1.3 1.3) (drill 0.7) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 85ca7faf-4f4c-4a3c-ae01-0526ade26850))
+  (pad "1" thru_hole rect (at -1 0) (size 1.3 1.3) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 047758f1-d131-4bc2-bcf0-b8efdd807baf))
+  (pad "2" thru_hole circle (at 1 0) (size 1.3 1.3) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 85ca7faf-4f4c-4a3c-ae01-0526ade26850))
   (model "Capacitor-Vishay-142-RHS-5x11x2mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

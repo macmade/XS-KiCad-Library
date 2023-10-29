@@ -37,9 +37,9 @@
     (stroke (width 0.15) (type solid)) (fill none) (layer "F.SilkS") (tstamp b9414926-f185-4814-9b66-bd6bb4b5fc28))
   (fp_circle (center 3 2) (end 3.5 2)
     (stroke (width 0.15) (type solid)) (fill none) (layer "F.SilkS") (tstamp bb92c103-4e81-40ab-ad35-e31fb92b39c7))
-  (pad "1" thru_hole rect (at 0 4.7) (size 3 3) (drill oval 2.4) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 19f0cf66-17b9-4305-9b8f-feddd403818c))
-  (pad "2" thru_hole circle (at 0 0) (size 3 3) (drill 2.4) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 323ea550-28df-4f94-8f5b-cfd406884ef0))
-  (pad "3" thru_hole circle (at 0 -4.7) (size 3 3) (drill 2.4) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp bb1b9485-5515-45bd-a47e-2bbb75da8aa7))
+  (pad "1" thru_hole rect (at 0 4.7) (size 3 3) (drill oval 2.4) (layers "*.Cu" "*.Mask") (tstamp 19f0cf66-17b9-4305-9b8f-feddd403818c))
+  (pad "2" thru_hole circle (at 0 0) (size 3 3) (drill 2.4) (layers "*.Cu" "*.Mask") (tstamp 323ea550-28df-4f94-8f5b-cfd406884ef0))
+  (pad "3" thru_hole circle (at 0 -4.7) (size 3 3) (drill 2.4) (layers "*.Cu" "*.Mask") (tstamp bb1b9485-5515-45bd-a47e-2bbb75da8aa7))
   (model "Switch-SPDT-NKK-Series-M.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

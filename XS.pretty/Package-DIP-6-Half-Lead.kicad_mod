@@ -23,12 +23,12 @@
     )
 
     (stroke (width 0.15) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 3ddb2e0a-4a92-41c8-a28b-b72f96b7d6e7))
-  (pad "1" thru_hole rect (at -2.54 3.75) (size 1.3 1.3) (drill 0.7) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 31d5a873-be41-4d6e-96cd-dd4a87901cbe))
-  (pad "2" thru_hole circle (at 0 3.75) (size 1.3 1.3) (drill 0.7) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 4e470682-7651-4035-939b-49db9f56495c))
-  (pad "3" thru_hole circle (at 2.54 3.75) (size 1.3 1.3) (drill 0.7) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 50b7c396-5116-4875-b01e-546d2b293037))
-  (pad "4" thru_hole circle (at 2.54 -3.75) (size 1.3 1.3) (drill 0.7) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 7fd9afc6-9e40-402c-afbf-21b14d59aecf))
-  (pad "5" thru_hole circle (at 0 -3.75) (size 1.3 1.3) (drill 0.7) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp cca60f54-b81c-472d-8e8a-257a63628bde))
-  (pad "6" thru_hole circle (at -2.54 -3.75) (size 1.3 1.3) (drill 0.7) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp eea60ff3-2929-4386-a6e0-4a02bca9695b))
+  (pad "1" thru_hole rect (at -2.54 3.75) (size 1.3 1.3) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 31d5a873-be41-4d6e-96cd-dd4a87901cbe))
+  (pad "2" thru_hole circle (at 0 3.75) (size 1.3 1.3) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 4e470682-7651-4035-939b-49db9f56495c))
+  (pad "3" thru_hole circle (at 2.54 3.75) (size 1.3 1.3) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 50b7c396-5116-4875-b01e-546d2b293037))
+  (pad "4" thru_hole circle (at 2.54 -3.75) (size 1.3 1.3) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 7fd9afc6-9e40-402c-afbf-21b14d59aecf))
+  (pad "5" thru_hole circle (at 0 -3.75) (size 1.3 1.3) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp cca60f54-b81c-472d-8e8a-257a63628bde))
+  (pad "6" thru_hole circle (at -2.54 -3.75) (size 1.3 1.3) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp eea60ff3-2929-4386-a6e0-4a02bca9695b))
   (model "Package-DIP-6-Half-Lead.step" hide
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

@@ -33,9 +33,9 @@
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp e73c8e37-333c-445e-a102-71f364f82010))
   (fp_rect (start -5.5 -3) (end 5.5 -2)
     (stroke (width 0.1) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 0ad40654-1f6c-43e8-9675-d697bc7afe62))
-  (pad "1" thru_hole rect (at -2.67 0) (size 2 2) (drill oval 1.4) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 4181bef2-ee83-4866-9f7f-a739d0ec74cb))
-  (pad "2" thru_hole circle (at 0 0) (size 2 2) (drill oval 1.4) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp db35109d-3143-41ab-9bc8-d297a28b4208))
-  (pad "3" thru_hole circle (at 2.67 0) (size 2 2) (drill oval 1.4) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 54599427-8a68-4ba1-9f21-147ec9f13889))
+  (pad "1" thru_hole rect (at -2.67 0) (size 2 2) (drill oval 1.4) (layers "*.Cu" "*.Mask") (tstamp 4181bef2-ee83-4866-9f7f-a739d0ec74cb))
+  (pad "2" thru_hole circle (at 0 0) (size 2 2) (drill oval 1.4) (layers "*.Cu" "*.Mask") (tstamp db35109d-3143-41ab-9bc8-d297a28b4208))
+  (pad "3" thru_hole circle (at 2.67 0) (size 2 2) (drill oval 1.4) (layers "*.Cu" "*.Mask") (tstamp 54599427-8a68-4ba1-9f21-147ec9f13889))
   (model "Package-TO-220.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

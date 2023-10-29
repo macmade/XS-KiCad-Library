@@ -47,8 +47,8 @@
   (pad "" np_thru_hole circle (at -18.59 11.115) (size 5.5 5.5) (drill 3.3) (layers "F&B.Cu" "*.Mask") (tstamp fdbea658-0cf0-4cd6-9272-d10139da0b97))
   (pad "" np_thru_hole circle (at 16.34 -11.115) (size 5.5 5.5) (drill 3.3) (layers "F&B.Cu" "*.Mask") (tstamp a81c223a-4700-42cf-97a0-74e8856a0ac5))
   (pad "" np_thru_hole circle (at 16.34 11.115) (size 5.5 5.5) (drill 3.3) (layers "F&B.Cu" "*.Mask") (tstamp fc92666a-926b-4d1e-8e2a-0dd7af8b9417))
-  (pad "1" thru_hole rect (at 25.23 6.35) (size 3 3) (drill 2.1) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 81bc5a7f-3892-41d7-906b-92975e76e593))
-  (pad "2" thru_hole circle (at 25.23 -6.35) (size 3 3) (drill 2.1) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 759f2636-03fd-4051-af0a-a50299d3c964))
+  (pad "1" thru_hole rect (at 25.23 6.35) (size 3 3) (drill 2.1) (layers "*.Cu" "*.Mask") (tstamp 81bc5a7f-3892-41d7-906b-92975e76e593))
+  (pad "2" thru_hole circle (at 25.23 -6.35) (size 3 3) (drill 2.1) (layers "*.Cu" "*.Mask") (tstamp 759f2636-03fd-4051-af0a-a50299d3c964))
   (model "Battery-Keystone-1291-9v-Holder.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

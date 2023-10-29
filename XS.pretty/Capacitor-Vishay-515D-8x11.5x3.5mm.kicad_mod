@@ -32,8 +32,8 @@
     )
 
     (stroke (width 0.15) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 6bc7dca6-abdf-4b4d-bdbe-f68bf5e254ad))
-  (pad "1" thru_hole rect (at -1.75 0) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 047758f1-d131-4bc2-bcf0-b8efdd807baf))
-  (pad "2" thru_hole circle (at 1.75 0) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 85ca7faf-4f4c-4a3c-ae01-0526ade26850))
+  (pad "1" thru_hole rect (at -1.75 0) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 047758f1-d131-4bc2-bcf0-b8efdd807baf))
+  (pad "2" thru_hole circle (at 1.75 0) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 85ca7faf-4f4c-4a3c-ae01-0526ade26850))
   (model "Capacitor-Vishay-515D-8x11.5x3.5mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

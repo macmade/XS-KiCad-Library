@@ -27,8 +27,8 @@
   (pad "" np_thru_hole circle (at -3.25 2.25) (size 1.5 1.5) (drill 1) (layers "F&B.Cu" "*.Mask") (tstamp 7c96e97c-d7e8-497c-8fe1-a87692355312))
   (pad "" np_thru_hole circle (at 3.25 -2.25) (size 1.5 1.5) (drill 1) (layers "F&B.Cu" "*.Mask") (tstamp 64315ee8-19bf-40ad-ab7f-e4bfa71e86e8))
   (pad "" np_thru_hole circle (at 3.25 2.25) (size 1.5 1.5) (drill 1) (layers "F&B.Cu" "*.Mask") (tstamp aab53646-e2a7-4712-955d-0f6641a83c94))
-  (pad "1" thru_hole rect (at 3.6 0) (size 1.5 1.5) (drill 1) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp c6a48b82-f4bf-484e-a1e3-5c1783063287))
-  (pad "2" thru_hole circle (at 0 -3.6) (size 1.5 1.5) (drill 1) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp b44a7baf-b8e7-4e7e-a86a-42ee7804a188))
+  (pad "1" thru_hole rect (at 3.6 0) (size 1.5 1.5) (drill 1) (layers "*.Cu" "*.Mask") (tstamp c6a48b82-f4bf-484e-a1e3-5c1783063287))
+  (pad "2" thru_hole circle (at 0 -3.6) (size 1.5 1.5) (drill 1) (layers "*.Cu" "*.Mask") (tstamp b44a7baf-b8e7-4e7e-a86a-42ee7804a188))
   (model "Tactile-Omrom-B3W-900X-X1X.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
