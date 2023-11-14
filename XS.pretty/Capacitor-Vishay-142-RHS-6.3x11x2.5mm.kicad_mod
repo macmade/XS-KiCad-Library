@@ -1,0 +1,42 @@
+(footprint "Capacitor-Vishay-142-RHS-6.3x11x2.5mm" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 4.75) (layer "F.SilkS")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp a9d99f0f-b096-4850-adb6-9c5dee82faef)
+  )
+  (fp_text value "Vishay 142 RHS 6.3x11x2.5mm" (at 0 -4.75) (layer "F.SilkS")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp a1ffb0c9-3138-4a60-a037-fe696eaeedce)
+  )
+  (fp_line (start -1.65 -1.5) (end -0.85 -1.5)
+    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 5620d73f-91e1-4f49-9c4d-f3bb59566c0f))
+  (fp_line (start -1.25 -1.9) (end -1.25 -1.1)
+    (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 8e07775b-352b-4890-af75-ad6696b826b5))
+  (fp_arc (start 0 3.15) (mid -3.15 0) (end 0 -3.15)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 54ce0e0b-7212-41c5-bae7-22be72c0eb95))
+  (fp_poly
+    (pts
+      (arc (start 1.25 -1) (mid 0.25 0) (end 1.25 1))
+      (xy 0 1)
+      (xy 0 -1)
+    )
+
+    (stroke (width 0.15) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 52d820a7-a37b-4e32-82f4-3d67cd16213c))
+  (fp_poly
+    (pts
+      (xy 0 -1)
+      (arc (start 1.25 -1) (mid 2.25 0) (end 1.25 1))
+      (xy 0 1)
+      (arc (start 0 3.15) (mid 3.15 0) (end 0 -3.15))
+    )
+
+    (stroke (width 0.15) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 4acbb501-bb96-4073-b950-cd0d70dbbea1))
+  (pad "1" thru_hole rect (at -1.25 0) (size 1.3 1.3) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 047758f1-d131-4bc2-bcf0-b8efdd807baf))
+  (pad "2" thru_hole circle (at 1.25 0) (size 1.3 1.3) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 85ca7faf-4f4c-4a3c-ae01-0526ade26850))
+  (model "Capacitor-Vishay-142-RHS-6.3x11x2.5mm.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)
