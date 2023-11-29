@@ -37,8 +37,8 @@
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp af37b255-1e72-4c1c-8345-f474b025521f))
   (fp_arc (start -2 -1.8) (mid 2.751019 0) (end -2 1.8)
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp a0a868ce-33dd-4fb4-93b2-da302a025eb0))
-  (pad "1" thru_hole rect (at -1.27 0) (size 1.4 1.4) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp b44a7baf-b8e7-4e7e-a86a-42ee7804a188))
-  (pad "2" thru_hole circle (at 1.27 0) (size 1.4 1.4) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp c6a48b82-f4bf-484e-a1e3-5c1783063287))
+  (pad "1" thru_hole rect (at -1.27 0) (size 1.6 1.6) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp b44a7baf-b8e7-4e7e-a86a-42ee7804a188))
+  (pad "2" thru_hole circle (at 1.27 0) (size 1.6 1.6) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp c6a48b82-f4bf-484e-a1e3-5c1783063287))
   (model "LED-T1-34-5mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
